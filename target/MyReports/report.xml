@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="117.758">
+    <testcase classname="Checking flight Main page" name="Check on the search main page" time="11.78">
+        <failure message="expected:&lt;[Find the right flight from hundreds of sites].&gt; but was:&lt;[Search hundreds of flight sites at once].&gt;" type="org.junit.ComparisonFailure">
+            <![CDATA[Given launch the URL........................................................passed
+When click on the flight link...............................................passed
+Then check the search page loaded with the search details...................failed
+
+StackTrace:
+org.junit.ComparisonFailure: expected:<[Find the right flight from hundreds of sites].> but was:<[Search hundreds of flight sites at once].>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at KayakStepDefinitions.FlightMainPageTest.checkTheSearchPageLoadedWithTheSearchDetails(FlightMainPageTest.java:29)
+	at ✽.check the search page loaded with the search details(file:///C:/Users/tojer/IdeaProjects/Com.Kayak.BDD/src/test/java/KayakFeatures/FlightMainPage.feature:6)
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="Check search Details and result matches" name="Enter search Details" time="31.146">
+        <system-out>
+            <![CDATA[Given launch URL............................................................passed
+When Enter the origin and destination "1"...................................passed
+And Enter From and to date "1"..............................................passed
+Then click on the search button.............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Check search Details and result matches" name="Enter search Details 2" time="38.205">
+        <system-out>
+            <![CDATA[Given launch URL............................................................passed
+When Enter the origin and destination "2"...................................passed
+And Enter From and to date "2"..............................................passed
+Then click on the search button.............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Check search Details and result matches" name="Enter search Details 3" time="36.393">
+        <system-out>
+            <![CDATA[Given launch URL............................................................passed
+When Enter the origin and destination "3"...................................passed
+And Enter From and to date "3"..............................................passed
+Then click on the search button.............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
