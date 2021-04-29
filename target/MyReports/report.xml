@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="117.758">
-    <testcase classname="Checking flight Main page" name="Check on the search main page" time="11.78">
-        <failure message="expected:&lt;[Find the right flight from hundreds of sites].&gt; but was:&lt;[Search hundreds of flight sites at once].&gt;" type="org.junit.ComparisonFailure">
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="88.725">
+    <testcase classname="Checking flight Main page" name="Check on the search main page" time="37.428">
+        <failure message="expected:&lt;[Book the right flight with our no change fees filter].&gt; but was:&lt;[Search hundreds of flight sites at once].&gt;" type="org.junit.ComparisonFailure">
             <![CDATA[Given launch the URL........................................................passed
 When click on the flight link...............................................passed
 Then check the search page loaded with the search details...................failed
 
 StackTrace:
-org.junit.ComparisonFailure: expected:<[Find the right flight from hundreds of sites].> but was:<[Search hundreds of flight sites at once].>
+org.junit.ComparisonFailure: expected:<[Book the right flight with our no change fees filter].> but was:<[Search hundreds of flight sites at once].>
 	at org.junit.Assert.assertEquals(Assert.java:115)
 	at org.junit.Assert.assertEquals(Assert.java:144)
 	at KayakStepDefinitions.FlightMainPageTest.checkTheSearchPageLoadedWithTheSearchDetails(FlightMainPageTest.java:29)
@@ -15,29 +15,11 @@ org.junit.ComparisonFailure: expected:<[Find the right flight from hundreds of s
 ]]>
         </failure>
     </testcase>
-    <testcase classname="Check search Details and result matches" name="Enter search Details" time="31.146">
+    <testcase classname="Check search Details and result matches" name="Enter search Details" time="50.569">
         <system-out>
             <![CDATA[Given launch URL............................................................passed
 When Enter the origin and destination "1"...................................passed
 And Enter From and to date "1"..............................................passed
-Then click on the search button.............................................passed
-]]>
-        </system-out>
-    </testcase>
-    <testcase classname="Check search Details and result matches" name="Enter search Details 2" time="38.205">
-        <system-out>
-            <![CDATA[Given launch URL............................................................passed
-When Enter the origin and destination "2"...................................passed
-And Enter From and to date "2"..............................................passed
-Then click on the search button.............................................passed
-]]>
-        </system-out>
-    </testcase>
-    <testcase classname="Check search Details and result matches" name="Enter search Details 3" time="36.393">
-        <system-out>
-            <![CDATA[Given launch URL............................................................passed
-When Enter the origin and destination "3"...................................passed
-And Enter From and to date "3"..............................................passed
 Then click on the search button.............................................passed
 ]]>
         </system-out>

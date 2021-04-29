@@ -1,1332 +1,161 @@
-2021-02-15 10:12:40 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:12:53 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:12:55 INFO  poFlightMainPage 42 - Click on the flight link
-2021-02-15 10:12:58 INFO  poFlightMainPage 58 - Enter source city
-2021-02-15 10:12:59 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (e8e860afe38c43893946eb901af55ef0)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:13:31 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 10:13:31 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 10:13:31 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:13:36 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:13:38 INFO  poFlightMainPage 42 - Click on the flight link
-2021-02-15 10:13:41 INFO  poFlightMainPage 58 - Enter source city
-2021-02-15 10:13:42 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (29fc789ab0c07810220329f929087c61)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:14:17 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (29fc789ab0c07810220329f929087c61)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:14:17 INFO  poFlightMainPage 80 - Entering start date :March 1
-2021-02-15 10:14:18 INFO  poFlightMainPage 91 - Enering end date:March 15
-2021-02-15 10:14:20 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 10:14:20 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 10:14:20 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:14:32 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:14:38 INFO  poFlightMainPage 42 - Click on the flight link
-2021-02-15 10:22:03 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:22:09 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:22:11 INFO  poFlightMainPage 43 - Click on the flight link
-2021-02-15 10:23:04 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:23:10 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:23:11 INFO  poFlightMainPage 43 - Click on the flight link
-2021-02-15 10:23:13 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:23:13 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (bd60651d1616b92c4696a263c79b0946)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:24:25 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:24:30 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:24:32 INFO  poFlightMainPage 43 - Click on the flight link
-2021-02-15 10:24:33 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:25:31 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:25:37 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:25:38 INFO  poFlightMainPage 43 - Click on the flight link
-2021-02-15 10:25:40 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:25:41 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (53b9cc1e21650d84f14c4dc4f3eb40b1)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:26:54 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:27:02 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:27:03 INFO  poFlightMainPage 43 - Click on the flight link
-2021-02-15 10:27:05 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:27:06 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (0c53d356d015091de72baf1358292f0d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:37:41 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:37:47 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:37:48 INFO  poFlightMainPage 43 - Click on the flight link
-2021-02-15 10:38:00 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:38:03 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:38:05 INFO  poFlightMainPage 43 - Click on the flight link
-2021-02-15 10:38:35 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:38:41 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:38:42 INFO  poFlightMainPage 43 - Click on the flight link
-2021-02-15 10:38:45 INFO  poFlightMainPage 58 - Enter source city
-2021-02-15 10:38:45 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (2b71e56263cb7af87da84345067d0863)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:38:52 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (2b71e56263cb7af87da84345067d0863)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:38:58 INFO  poFlightMainPage 90 - Entering start date :March 10
-2021-02-15 10:38:59 INFO  poFlightMainPage 101 - Enering end date:March 25
-2021-02-15 10:39:00 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 10:39:00 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 10:39:00 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:39:02 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:39:04 INFO  poFlightMainPage 43 - Click on the flight link
-2021-02-15 10:39:06 INFO  poFlightMainPage 58 - Enter source city
-2021-02-15 10:39:06 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (9df9355dc684b30b3e327095a3bcca02)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:39:14 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (9df9355dc684b30b3e327095a3bcca02)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:39:20 INFO  poFlightMainPage 90 - Entering start date :March 1
-2021-02-15 10:39:20 INFO  poFlightMainPage 101 - Enering end date:March 15
-2021-02-15 10:39:24 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 10:39:24 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 10:39:24 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:39:27 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:39:29 INFO  poFlightMainPage 43 - Click on the flight link
-2021-02-15 10:39:31 INFO  poFlightMainPage 58 - Enter source city
-2021-02-15 10:39:32 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (0c119622f0a8356d2cb7e8662c865bd4)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:39:40 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (0c119622f0a8356d2cb7e8662c865bd4)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:39:46 INFO  poFlightMainPage 90 - Entering start date :February 25
-2021-02-15 10:39:47 INFO  poFlightMainPage 101 - Enering end date:March 25
-2021-02-15 10:42:23 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:42:29 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:42:30 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 10:42:32 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:42:32 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (e08a4a4de2c038ecb4ecb86e6b8336ff)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:42:40 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (e08a4a4de2c038ecb4ecb86e6b8336ff)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:42:46 INFO  poFlightMainPage 91 - Entering start date :March 10
-2021-02-15 10:42:47 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 10:42:49 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 10:42:49 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 10:42:49 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:42:53 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:42:54 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 10:42:55 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:42:56 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (787ba98cb32afd4bbc807128bfda0967)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:43:04 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (787ba98cb32afd4bbc807128bfda0967)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:43:09 INFO  poFlightMainPage 91 - Entering start date :March 1
-2021-02-15 10:43:10 INFO  poFlightMainPage 102 - Enering end date:March 15
-2021-02-15 10:43:13 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 10:43:13 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 10:43:13 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:43:17 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:43:19 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 10:43:21 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:43:22 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (47762652f60177b211da0dc4a064cfa6)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:43:28 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (47762652f60177b211da0dc4a064cfa6)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:43:34 INFO  poFlightMainPage 91 - Entering start date :February 25
-2021-02-15 10:43:35 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 10:45:02 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:45:06 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:45:08 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 10:45:09 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:45:10 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (1afde6a84beff4c50fe3a28678b43576)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:45:16 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (1afde6a84beff4c50fe3a28678b43576)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:45:22 INFO  poFlightMainPage 91 - Entering start date :March 10
-2021-02-15 10:45:23 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 10:45:30 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 10:45:30 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 10:45:30 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:45:33 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:45:35 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 10:45:37 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:45:38 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (984aa6f03984fecbcd7f1b1ba1a0e35a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:45:45 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (984aa6f03984fecbcd7f1b1ba1a0e35a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:45:51 INFO  poFlightMainPage 91 - Entering start date :March 1
-2021-02-15 10:45:52 INFO  poFlightMainPage 102 - Enering end date:March 15
-2021-02-15 10:46:00 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 10:46:00 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 10:46:00 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:46:04 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:46:06 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 10:46:09 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:46:09 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (abbb7c0fffd48213c384eab2939bd12a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:46:16 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (abbb7c0fffd48213c384eab2939bd12a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:46:22 INFO  poFlightMainPage 91 - Entering start date :February 25
-2021-02-15 10:46:23 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 10:49:22 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:49:26 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:49:28 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 10:49:29 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:49:29 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (60c471021cc2a928f81451ed8735a15c)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:49:36 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (60c471021cc2a928f81451ed8735a15c)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:49:43 INFO  poFlightMainPage 91 - Entering start date :March 10
-2021-02-15 10:49:43 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 10:49:51 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 10:49:51 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 10:49:51 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:49:57 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:49:58 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 10:49:59 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:50:00 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ca7b085ffec34ec6961e575821e971fd)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:50:08 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ca7b085ffec34ec6961e575821e971fd)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:50:14 INFO  poFlightMainPage 91 - Entering start date :March 1
-2021-02-15 10:50:15 INFO  poFlightMainPage 102 - Enering end date:March 15
-2021-02-15 10:50:22 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 10:50:22 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 10:50:22 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 10:50:25 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 10:50:27 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 10:50:29 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 10:50:30 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (0762c0a11367a5ed98a6945c54674fd8)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 10:50:36 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (0762c0a11367a5ed98a6945c54674fd8)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 10:50:42 INFO  poFlightMainPage 91 - Entering start date :February 25
-2021-02-15 10:50:42 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 11:40:34 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 11:40:38 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 11:40:39 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 11:40:41 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 11:40:41 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (a7606f6ac918a062e8234ab30d41bb35)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 11:40:48 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (a7606f6ac918a062e8234ab30d41bb35)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 11:40:53 INFO  poFlightMainPage 91 - Entering start date :March 10
-2021-02-15 11:40:54 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 11:41:00 INFO  poFlightMainPage 124 - Check all the airports details selected on the left hand side of the page
-2021-02-15 11:41:00 INFO  poFlightMainPage 134 - verifying the output for the airport details 
-2021-02-15 11:41:10 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 11:41:10 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 11:41:10 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 11:41:18 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 11:41:23 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 11:41:26 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 11:41:27 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (26a065e6401c9ee4355e47edd85f1100)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 11:41:33 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (26a065e6401c9ee4355e47edd85f1100)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 11:41:39 INFO  poFlightMainPage 91 - Entering start date :March 1
-2021-02-15 11:41:40 INFO  poFlightMainPage 102 - Enering end date:March 15
-2021-02-15 11:41:46 INFO  poFlightMainPage 124 - Check all the airports details selected on the left hand side of the page
-2021-02-15 11:41:46 INFO  poFlightMainPage 134 - verifying the output for the airport details 
-2021-02-15 11:41:48 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 11:41:48 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 11:41:48 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 11:41:52 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 11:41:53 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 11:41:55 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 11:41:55 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (8b396c5899f5299b612edda676efddd6)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 11:42:03 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (8b396c5899f5299b612edda676efddd6)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 11:42:09 INFO  poFlightMainPage 91 - Entering start date :February 25
-2021-02-15 11:42:10 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 11:42:16 INFO  poFlightMainPage 124 - Check all the airports details selected on the left hand side of the page
-2021-02-15 11:42:16 INFO  poFlightMainPage 134 - verifying the output for the airport details 
-2021-02-15 12:37:28 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:37:36 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:37:39 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:37:42 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 12:37:42 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (95ea16bb18f703947992bf83c210bd5b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 12:37:51 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (95ea16bb18f703947992bf83c210bd5b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 12:38:06 INFO  poFlightMainPage 91 - Entering start date :March 10
-2021-02-15 12:38:07 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 12:38:14 INFO  poFlightMainPage 125 - Check all the airports details selected on the left hand side of the page
-2021-02-15 12:38:15 INFO  poFlightMainPage 137 - verifying the output for the airport details 
-2021-02-15 12:38:19 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 12:38:19 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 12:38:19 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:38:24 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:38:26 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:38:28 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 12:38:29 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (144bffdebca6be1dc3c8d0e9ec01c7f0)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 12:38:36 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (144bffdebca6be1dc3c8d0e9ec01c7f0)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 12:38:42 INFO  poFlightMainPage 91 - Entering start date :March 1
-2021-02-15 12:38:43 INFO  poFlightMainPage 102 - Enering end date:March 15
-2021-02-15 12:38:50 INFO  poFlightMainPage 125 - Check all the airports details selected on the left hand side of the page
-2021-02-15 12:38:50 INFO  poFlightMainPage 137 - verifying the output for the airport details 
-2021-02-15 12:38:51 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 12:38:51 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 12:38:52 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:39:02 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:39:09 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:39:15 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 12:39:15 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (c3ba850c1406fb73adb750227a6628b4)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 12:39:22 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (c3ba850c1406fb73adb750227a6628b4)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 12:39:30 INFO  poFlightMainPage 91 - Entering start date :February 25
-2021-02-15 12:39:30 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 12:39:36 INFO  poFlightMainPage 125 - Check all the airports details selected on the left hand side of the page
-2021-02-15 12:39:36 INFO  poFlightMainPage 137 - verifying the output for the airport details 
-2021-02-15 12:41:34 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:41:42 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:41:43 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:41:44 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 12:41:45 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ed4e8f6f826f25bb776309f0129ea7ad)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 12:41:52 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ed4e8f6f826f25bb776309f0129ea7ad)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 12:41:57 INFO  poFlightMainPage 91 - Entering start date :March 10
-2021-02-15 12:41:58 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 12:42:04 INFO  poFlightMainPage 125 - Check all the airports details selected on the left hand side of the page
-2021-02-15 12:42:04 INFO  poFlightMainPage 137 - verifying the output for the airport details 
-2021-02-15 12:42:05 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 12:42:05 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 12:42:06 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:42:18 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:42:20 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:42:21 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 12:42:22 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (6518cee56cb4d930b0b01684b2e418ed)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 12:42:29 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (6518cee56cb4d930b0b01684b2e418ed)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 12:42:35 INFO  poFlightMainPage 91 - Entering start date :March 1
-2021-02-15 12:42:36 INFO  poFlightMainPage 102 - Enering end date:March 15
-2021-02-15 12:42:42 INFO  poFlightMainPage 125 - Check all the airports details selected on the left hand side of the page
-2021-02-15 12:42:43 INFO  poFlightMainPage 137 - verifying the output for the airport details 
-2021-02-15 12:42:45 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 12:42:45 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 12:42:45 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:42:49 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:42:53 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:42:56 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 12:42:57 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (45710d20f71a439a1735d3b8cd08d523)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 12:43:04 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (45710d20f71a439a1735d3b8cd08d523)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 12:43:10 INFO  poFlightMainPage 91 - Entering start date :February 25
-2021-02-15 12:43:11 INFO  poFlightMainPage 102 - Enering end date:March 25
-2021-02-15 12:43:17 INFO  poFlightMainPage 125 - Check all the airports details selected on the left hand side of the page
-2021-02-15 12:43:17 INFO  poFlightMainPage 137 - verifying the output for the airport details 
-2021-02-15 12:52:11 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:52:15 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:52:17 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:52:19 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 12:52:19 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (13913a1b0baa9d5b0bf8aada828d1c2d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 12:52:28 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 12:52:28 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 12:52:28 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:52:32 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:52:34 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:52:36 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 12:52:36 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (8d1178c812c660127e1951436104ba5f)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 12:52:45 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 12:52:45 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 12:52:45 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:52:54 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:52:56 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:56:48 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:56:54 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:56:56 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:56:57 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 12:56:58 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (6a9bcb036f308b571954106607587747)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 12:59:00 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 12:59:04 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 12:59:06 INFO  poFlightMainPage 44 - Click on the flight link
-2021-02-15 12:59:09 INFO  poFlightMainPage 59 - Enter source city
-2021-02-15 12:59:10 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b7d3a90081df8770572c899577c66eb1)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:05:26 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:05:32 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:05:34 INFO  poFlightMainPage 46 - Click on the flight link
-2021-02-15 13:05:36 INFO  poFlightMainPage 61 - Enter source city
-2021-02-15 13:05:37 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (a97bfb736910c2cc0baf6da253372624)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:09:56 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:10:01 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:10:03 INFO  poFlightMainPage 46 - Click on the flight link
-2021-02-15 13:10:05 INFO  poFlightMainPage 61 - Enter source city
-2021-02-15 13:10:06 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (e138a187d6e0a4f4206afffd583abab9)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:10:14 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:10:14 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:10:14 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:10:18 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:10:19 INFO  poFlightMainPage 46 - Click on the flight link
-2021-02-15 13:10:21 INFO  poFlightMainPage 61 - Enter source city
-2021-02-15 13:10:21 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (4322cedbbd80a75828d1145c08f7bb9a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:10:30 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:10:30 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:10:30 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:10:36 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:10:39 INFO  poFlightMainPage 46 - Click on the flight link
-2021-02-15 13:10:40 INFO  poFlightMainPage 61 - Enter source city
-2021-02-15 13:10:41 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (9fc5b90b2ca97ab7777689215ec6734d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:12:05 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:12:09 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:12:11 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:12:14 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:12:14 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (e3a509f97dfebce8380677f45f9dc2d0)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:12:22 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:12:22 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:12:22 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:12:25 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:12:27 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:12:29 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:12:30 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ea189975bd8e88ea4dfd22bdd4c51114)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:12:37 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:12:37 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:12:37 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:12:44 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:12:45 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:12:47 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:12:48 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (9a8d3196f9ace37dfede2a455ebfe097)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:13:36 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:13:42 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:13:45 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:13:48 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:13:48 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (411aca6d0cb4bf920c75704175ac6753)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:13:56 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:13:56 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:13:56 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:14:00 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:14:02 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:14:03 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:14:04 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (fccc47c862d5dad588118bef17cc9014)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:14:11 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:14:11 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:14:11 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:14:15 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:14:19 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:14:22 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:14:23 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (55d9f767ed26e938d64aa608ef0e13b0)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:18:54 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:18:59 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:19:01 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:19:02 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:19:03 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (7630b810ad0fc84c7254dde72f160411)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:19:09 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (7630b810ad0fc84c7254dde72f160411)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:19:15 INFO  poFlightMainPage 105 - Entering start date :March 10
-2021-02-15 13:19:16 INFO  poFlightMainPage 116 - Enering end date:March 25
-2021-02-15 13:19:22 INFO  poFlightMainPage 139 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:19:26 INFO  poFlightMainPage 151 - verifying the output for the airport details 
-2021-02-15 13:19:29 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:19:29 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:19:29 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:19:34 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:19:36 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:19:37 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:19:38 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (6d091ae76de2c94291cc4c6a3ff0329b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:19:47 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (6d091ae76de2c94291cc4c6a3ff0329b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:19:54 INFO  poFlightMainPage 105 - Entering start date :March 1
-2021-02-15 13:19:54 INFO  poFlightMainPage 116 - Enering end date:March 15
-2021-02-15 13:20:00 INFO  poFlightMainPage 139 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:20:00 INFO  poFlightMainPage 151 - verifying the output for the airport details 
-2021-02-15 13:20:04 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:20:04 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:20:04 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:20:09 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:20:12 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:20:15 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:20:15 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (688a3eab36764f2ee04c7061b4d84fdb)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:20:23 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (688a3eab36764f2ee04c7061b4d84fdb)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:20:29 INFO  poFlightMainPage 105 - Entering start date :February 25
-2021-02-15 13:20:29 INFO  poFlightMainPage 116 - Enering end date:March 25
-2021-02-15 13:20:35 INFO  poFlightMainPage 139 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:20:35 INFO  poFlightMainPage 151 - verifying the output for the airport details 
-2021-02-15 13:26:37 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:26:41 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:26:44 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:26:46 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:26:47 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (8c6d8ea43d35c114c2109c179982d909)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:26:55 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:26:55 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:26:55 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:26:58 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:27:01 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:27:03 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:27:04 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (304b608211350ef78576bd7e12bc0209)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:27:13 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:27:13 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:27:13 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:27:17 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:27:20 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:27:23 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:27:23 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (fc3e6763dfdcfba31a129c582004b691)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:28:36 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:28:40 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:28:42 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:28:43 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:28:44 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (5b40da2b22f108aeb813d95f39e306ee)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:33:59 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:34:03 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:34:05 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:34:08 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:34:09 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (c5447d0c1ffc38fc22c427011b62c35c)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:34:17 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:34:17 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:34:17 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:34:21 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:34:22 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:34:24 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:34:25 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (09709af901ea9a553fe078e8e200ab54)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:34:35 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:34:35 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:34:35 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:34:38 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:34:40 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:34:41 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:34:42 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (96786e8973ced086db1087748b01bb7a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:37:48 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:37:54 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:37:55 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:37:57 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:37:58 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (2b5251ddfd353a59d701d3925cab1773)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:38:07 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:38:07 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:38:08 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:38:13 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:38:15 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:39:42 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:39:46 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:39:47 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:39:49 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:39:51 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (fa5b153a6a60d8bef0faafe9b71364af)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:39:58 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:39:58 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:39:58 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:40:04 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:40:06 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:40:08 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:40:10 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (602a98f7c8ec2d02e4d9d0e1e88757e8)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:40:19 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:40:19 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:40:19 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:42:14 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:42:18 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:42:19 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:43:00 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:43:06 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:43:08 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:43:10 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:43:11 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (3e6731dfa013997960e9c1f67f67c691)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:43:18 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (3e6731dfa013997960e9c1f67f67c691)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:43:25 INFO  poFlightMainPage 101 - Entering start date :March 10
-2021-02-15 13:43:26 INFO  poFlightMainPage 112 - Enering end date:March 25
-2021-02-15 13:43:34 INFO  poFlightMainPage 135 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:43:35 INFO  poFlightMainPage 147 - verifying the output for the airport details 
-2021-02-15 13:43:36 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:43:36 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:43:36 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:43:43 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:43:45 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:43:48 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:43:49 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (fad797a278c546546d80f3e63eb22b3e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:43:56 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (fad797a278c546546d80f3e63eb22b3e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:44:03 INFO  poFlightMainPage 101 - Entering start date :March 1
-2021-02-15 13:44:05 INFO  poFlightMainPage 112 - Enering end date:March 15
-2021-02-15 13:44:12 INFO  poFlightMainPage 135 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:44:12 INFO  poFlightMainPage 147 - verifying the output for the airport details 
-2021-02-15 13:44:14 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:44:14 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:44:14 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:44:19 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:44:23 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:44:26 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:44:26 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (8c0f11a95f1929045ae12d9e2048baef)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:44:33 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (8c0f11a95f1929045ae12d9e2048baef)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:46:18 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:46:22 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:46:24 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:46:26 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:46:27 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (62a02ae2978d6e4a8557c9d55bfe4dd9)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:46:34 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (62a02ae2978d6e4a8557c9d55bfe4dd9)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:46:42 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 13:46:43 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 13:46:50 INFO  poFlightMainPage 130 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:46:50 INFO  poFlightMainPage 142 - verifying the output for the airport details 
-2021-02-15 13:46:53 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:46:53 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:46:53 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:46:57 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:46:58 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:47:00 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:47:01 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (916c859d780cdfdf5035317df9cef0c6)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:47:08 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (916c859d780cdfdf5035317df9cef0c6)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:47:14 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 13:47:15 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 13:47:23 INFO  poFlightMainPage 130 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:47:23 INFO  poFlightMainPage 142 - verifying the output for the airport details 
-2021-02-15 13:47:25 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:47:25 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:47:25 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:47:32 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:47:34 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:47:36 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:47:37 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (c7dc37d612c1a7f96bcaa7b9cf940d95)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:47:44 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (c7dc37d612c1a7f96bcaa7b9cf940d95)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:47:49 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 13:47:51 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 13:47:57 INFO  poFlightMainPage 130 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:47:57 INFO  poFlightMainPage 142 - verifying the output for the airport details 
-2021-02-15 13:48:54 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:48:58 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:48:59 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:49:01 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:49:02 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (c2acbf3732285a46f308de7599e7e110)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:49:10 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (c2acbf3732285a46f308de7599e7e110)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:49:15 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 13:49:17 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 13:49:23 INFO  poFlightMainPage 130 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:49:25 INFO  poFlightMainPage 142 - verifying the output for the airport details 
-2021-02-15 13:49:26 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:49:26 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:49:26 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:49:34 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:49:37 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:49:39 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:49:40 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (67ef49af62a997d40c7306488cbaf3f2)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:49:47 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (67ef49af62a997d40c7306488cbaf3f2)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:49:53 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 13:49:54 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 13:50:02 INFO  poFlightMainPage 130 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:50:02 INFO  poFlightMainPage 142 - verifying the output for the airport details 
-2021-02-15 13:50:03 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:50:03 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:50:03 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:50:07 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:50:10 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:50:13 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:50:13 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (a0e0b493cab1f6ad59b14aae3273a89d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:50:21 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (a0e0b493cab1f6ad59b14aae3273a89d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:50:27 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 13:50:28 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 13:50:35 INFO  poFlightMainPage 130 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:50:35 INFO  poFlightMainPage 142 - verifying the output for the airport details 
-2021-02-15 13:53:43 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:53:49 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:53:51 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:53:53 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:53:54 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (304ecfb637dca0502eb60201739c967d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:54:01 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (304ecfb637dca0502eb60201739c967d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:54:07 INFO  poFlightMainPage 95 - Entering start date :March 10
-2021-02-15 13:54:08 INFO  poFlightMainPage 106 - Enering end date:March 25
-2021-02-15 13:54:14 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:54:15 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 13:54:16 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:54:16 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:54:17 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:54:21 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:54:23 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:54:25 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:54:26 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (540306d65154b09a3c17536a6b3556c1)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:54:34 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (540306d65154b09a3c17536a6b3556c1)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:54:40 INFO  poFlightMainPage 95 - Entering start date :March 1
-2021-02-15 13:54:41 INFO  poFlightMainPage 106 - Enering end date:March 15
-2021-02-15 13:54:49 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:54:49 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 13:54:50 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:54:50 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:54:50 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:54:57 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:54:58 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:55:01 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:55:02 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (4ffff9c3685bc4eda5e551e5a2f0bc89)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:55:09 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (4ffff9c3685bc4eda5e551e5a2f0bc89)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:55:15 INFO  poFlightMainPage 95 - Entering start date :February 25
-2021-02-15 13:55:16 INFO  poFlightMainPage 106 - Enering end date:March 25
-2021-02-15 13:55:23 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:55:24 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 13:59:18 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:59:22 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:59:24 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:59:26 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 13:59:27 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (96aa44d543bb476968dd833b457040b8)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 13:59:34 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (96aa44d543bb476968dd833b457040b8)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 13:59:41 INFO  poFlightMainPage 95 - Entering start date :March 10
-2021-02-15 13:59:42 INFO  poFlightMainPage 106 - Enering end date:March 25
-2021-02-15 13:59:49 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 13:59:49 INFO  poFlightMainPage 147 - verifying the output for the airport details 
-2021-02-15 13:59:51 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 13:59:51 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 13:59:51 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 13:59:56 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 13:59:57 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 13:59:59 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 14:00:00 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (21e55ab43d52c73a92e136ec58e5bb43)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 14:00:07 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (21e55ab43d52c73a92e136ec58e5bb43)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 14:00:14 INFO  poFlightMainPage 95 - Entering start date :March 1
-2021-02-15 14:00:15 INFO  poFlightMainPage 106 - Enering end date:March 15
-2021-02-15 14:00:21 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 14:00:21 INFO  poFlightMainPage 147 - verifying the output for the airport details 
-2021-02-15 14:00:22 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 14:00:22 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 14:00:22 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 14:00:26 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 14:00:29 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 14:02:16 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 14:02:19 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 14:02:20 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 14:02:22 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 14:02:23 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (4657a348e25c65084edc940a2f9ac304)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 14:02:30 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (4657a348e25c65084edc940a2f9ac304)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 14:02:37 INFO  poFlightMainPage 95 - Entering start date :March 10
-2021-02-15 14:02:38 INFO  poFlightMainPage 106 - Enering end date:March 25
-2021-02-15 14:02:44 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 14:02:44 INFO  poFlightMainPage 147 - verifying the output for the airport details 
-2021-02-15 14:02:44 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 14:02:44 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 14:02:44 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 14:02:50 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 14:02:52 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 14:02:55 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 14:02:56 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (9a592d69e12cb8c7a4c055a5e0a5872f)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 14:03:03 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (9a592d69e12cb8c7a4c055a5e0a5872f)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 14:03:10 INFO  poFlightMainPage 95 - Entering start date :March 1
-2021-02-15 14:03:11 INFO  poFlightMainPage 106 - Enering end date:March 15
-2021-02-15 14:03:18 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 14:03:18 INFO  poFlightMainPage 147 - verifying the output for the airport details 
-2021-02-15 14:03:18 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 14:03:18 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 14:03:18 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 14:03:26 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 14:03:29 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 14:03:32 INFO  poFlightMainPage 62 - Enter source city
-2021-02-15 14:03:33 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (78d5b09d61b71af080eee4fc41caed75)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 14:03:42 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (78d5b09d61b71af080eee4fc41caed75)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 14:03:48 INFO  poFlightMainPage 95 - Entering start date :February 25
-2021-02-15 14:03:50 INFO  poFlightMainPage 106 - Enering end date:March 25
-2021-02-15 14:03:57 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 14:03:57 INFO  poFlightMainPage 147 - verifying the output for the airport details 
-2021-02-15 15:05:56 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:06:04 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:06:08 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:06:11 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 15:06:12 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (4fd79a67cc6b7a5a6d675e47928eab89)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 15:06:21 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (4fd79a67cc6b7a5a6d675e47928eab89)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 15:06:28 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 15:06:29 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 15:06:35 INFO  poFlightMainPage 130 - Check all the airports details selected on the left hand side of the page
-2021-02-15 15:06:36 INFO  poFlightMainPage 144 - verifying the output for the airport details 
-2021-02-15 15:06:39 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 15:06:39 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 15:06:39 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:06:46 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:06:49 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:06:51 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 15:06:52 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (0103f0d44689d3249addf1f683b2c1f7)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 15:07:00 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (0103f0d44689d3249addf1f683b2c1f7)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 15:07:06 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 15:07:07 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 15:07:14 INFO  poFlightMainPage 130 - Check all the airports details selected on the left hand side of the page
-2021-02-15 15:07:14 INFO  poFlightMainPage 144 - verifying the output for the airport details 
-2021-02-15 15:07:14 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 15:07:14 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 15:07:14 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:07:30 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:07:37 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:07:42 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 15:07:43 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (eca278929afe2405f7cd950b36bdee67)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 15:07:53 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (eca278929afe2405f7cd950b36bdee67)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 15:07:59 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 15:08:01 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 15:08:07 INFO  poFlightMainPage 130 - Check all the airports details selected on the left hand side of the page
-2021-02-15 15:08:07 INFO  poFlightMainPage 144 - verifying the output for the airport details 
-2021-02-15 15:11:10 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:11:19 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:11:21 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:11:23 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 15:11:24 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ff32cee984d5f7e27f24d87ae42ec8d3)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 15:11:31 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ff32cee984d5f7e27f24d87ae42ec8d3)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 15:11:38 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 15:11:40 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 15:11:46 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 15:11:46 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 15:11:48 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 15:11:48 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 15:11:48 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:11:52 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:11:54 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:13:31 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:13:36 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:13:38 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:13:40 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 15:13:41 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (78af1493af73828d08cb84eaea80916d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 15:13:49 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (78af1493af73828d08cb84eaea80916d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 15:13:56 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 15:13:57 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 15:14:04 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 15:14:04 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 15:14:06 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 15:14:06 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 15:14:07 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:14:13 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:14:16 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:14:18 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 15:14:19 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (86fceb034cbd4fa77b717d8ece03b15a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 15:14:29 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (86fceb034cbd4fa77b717d8ece03b15a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 15:14:35 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 15:14:36 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 15:14:42 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 15:14:43 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 15:14:45 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 15:14:45 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 15:14:45 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:14:52 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:14:55 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:14:57 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 15:14:58 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (a9cf5beaa24a1b210a3d3b53536b786e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 15:15:06 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (a9cf5beaa24a1b210a3d3b53536b786e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 15:15:13 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 15:15:14 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 15:15:20 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 15:15:20 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 15:37:04 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:37:09 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:37:11 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:37:29 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:37:34 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:37:36 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:37:38 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 15:37:39 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b81d4dbca6e316cf169af038b2857979)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 15:37:46 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b81d4dbca6e316cf169af038b2857979)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 15:37:53 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 15:37:55 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 15:38:01 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 15:38:01 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 15:38:03 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 15:38:03 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 15:38:03 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:38:07 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:38:10 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:38:13 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 15:38:13 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (35cc1ffba72186eecae859da992b77a7)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 15:38:20 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (35cc1ffba72186eecae859da992b77a7)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 15:38:27 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 15:38:28 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 15:38:34 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 15:38:34 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 15:38:36 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 15:38:36 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 15:38:36 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 15:38:46 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 15:38:47 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 15:38:49 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 15:38:50 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (8307ff277b3f8e39e0e7165a5c07ff77)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 15:38:57 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (8307ff277b3f8e39e0e7165a5c07ff77)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 15:39:03 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 15:39:05 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 15:39:11 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 15:39:11 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:24:14 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:24:19 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:24:20 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:24:22 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:24:23 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b8cb7b49aa3348eca8b932c486d58604)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:24:31 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b8cb7b49aa3348eca8b932c486d58604)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:24:37 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 16:24:37 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 16:24:43 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:24:43 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:24:48 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 16:24:48 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 16:24:48 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:24:58 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:25:00 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:25:02 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:25:03 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (2605370dbafc45c4ca483d7d7fdb1ec4)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:25:11 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (2605370dbafc45c4ca483d7d7fdb1ec4)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:25:17 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 16:25:18 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 16:25:24 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:25:24 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:25:56 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 16:25:56 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 16:25:56 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:25:59 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:26:02 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:26:04 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:26:05 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (9fb42e7348222f1dc0a2e4448e435748)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:26:11 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (9fb42e7348222f1dc0a2e4448e435748)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:26:17 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 16:26:18 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 16:26:24 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:26:25 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:41:16 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:41:21 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:41:22 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:41:24 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:41:25 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b8d3b1387d46ceb6a0b8aa7d24cc14ad)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:41:32 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b8d3b1387d46ceb6a0b8aa7d24cc14ad)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:41:38 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 16:41:38 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 16:41:44 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:41:44 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:41:46 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 16:41:46 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 16:41:46 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:41:50 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:41:53 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:41:55 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:41:56 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (7c9b775dbccb30cb336575ebf959e6db)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:42:03 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (7c9b775dbccb30cb336575ebf959e6db)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:42:10 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 16:42:11 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 16:42:17 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:42:17 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:42:20 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 16:42:20 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 16:42:20 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:42:23 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:42:24 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:42:27 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:42:28 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (442bc58095cdf89445af945903d0b795)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:42:36 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (442bc58095cdf89445af945903d0b795)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:42:42 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 16:42:43 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 16:42:51 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:42:51 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:45:40 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:45:45 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:45:47 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:45:48 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:45:49 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b47d25b183c4185d0db270c3284ffbc3)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:45:56 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b47d25b183c4185d0db270c3284ffbc3)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:46:03 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 16:46:04 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 16:46:10 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:46:10 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:46:11 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 16:46:11 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 16:46:11 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:46:18 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:46:20 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:46:23 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:46:24 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (bbd6a629c453e3ff986a14fa9b5939c6)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:46:31 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (bbd6a629c453e3ff986a14fa9b5939c6)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:46:38 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 16:46:38 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 16:46:44 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:46:45 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:46:46 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 16:46:46 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 16:46:46 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:46:52 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:46:54 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:46:56 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:46:57 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (2ca774656e348e355f805937fd3b54d9)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:47:04 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (2ca774656e348e355f805937fd3b54d9)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:47:10 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 16:47:11 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 16:47:17 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:47:18 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:50:04 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:50:07 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:50:09 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:50:11 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:50:12 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (f6b1b44ee9e419ae5f65203cf6b448ec)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:50:19 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (f6b1b44ee9e419ae5f65203cf6b448ec)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:50:25 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 16:50:26 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 16:50:32 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:50:32 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:50:33 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 16:50:33 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 16:50:33 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:50:37 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:50:38 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:50:40 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:50:41 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b8b4d7323c60226ff1a399e3360d3c4b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:50:49 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b8b4d7323c60226ff1a399e3360d3c4b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:50:55 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 16:50:55 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 16:51:01 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:51:02 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 16:51:04 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 16:51:04 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 16:51:04 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 16:51:11 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 16:51:13 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 16:51:15 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 16:51:16 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (e92f5558e8ad8abd32349ee3b5bd702e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 16:51:22 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (e92f5558e8ad8abd32349ee3b5bd702e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 16:51:28 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 16:51:29 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 16:51:36 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 16:51:36 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:19:12 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:19:25 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:19:27 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:19:46 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:19:52 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:19:54 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:19:56 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:19:57 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:21:43 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:21:47 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:21:49 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:21:51 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:21:51 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:28:40 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:28:43 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:28:45 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:28:48 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:28:48 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:28:49 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:28:49 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:28:49 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:28:53 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:28:54 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:28:56 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:28:57 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ae74d7a07f130cf7fe8719443a60e6ca)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:29:05 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ae74d7a07f130cf7fe8719443a60e6ca)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:29:12 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 22:29:13 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 22:29:56 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:29:56 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:29:57 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:29:57 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:29:57 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:30:01 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:30:03 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:30:05 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:30:05 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (9bb822fa31c50171b131c0e680fc5c8b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:30:12 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (9bb822fa31c50171b131c0e680fc5c8b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:30:17 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 22:30:18 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 22:30:24 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:30:24 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:30:26 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:30:26 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:30:26 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:30:30 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:30:31 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:30:33 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:30:33 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b34d123e4b9ad1feec024447ef18a89b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:30:40 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b34d123e4b9ad1feec024447ef18a89b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:30:46 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 22:30:47 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 22:30:52 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:30:52 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:34:46 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:34:49 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:34:51 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:34:53 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:34:56 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:35:01 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:35:01 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:35:01 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:35:05 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:35:07 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:35:10 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:35:11 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (08553ed64668b79a6c8a298d91d5f0dd)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:35:18 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (08553ed64668b79a6c8a298d91d5f0dd)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:35:25 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 22:35:26 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 22:35:32 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:35:32 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:35:34 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:35:34 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:35:34 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:35:40 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:35:41 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:36:27 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:36:32 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:36:34 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:36:35 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:36:36 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:36:37 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:36:37 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:36:37 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:36:40 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:36:44 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:36:45 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:36:46 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (debd1a99300c97ac9d5feafbf101b091)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:36:52 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (debd1a99300c97ac9d5feafbf101b091)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:36:58 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 22:36:59 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 22:37:08 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:37:08 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:37:09 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:37:09 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:37:09 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:37:14 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:37:15 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:37:18 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:37:19 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (a46c11f90739b73593010838ad02e69d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:37:25 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (a46c11f90739b73593010838ad02e69d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:37:31 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 22:37:32 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 22:37:38 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:37:38 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:37:40 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:37:40 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:37:40 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:37:45 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:37:46 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:37:49 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:37:49 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (aec8f930777c8f5f66a78d6c1a75e0d4)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:37:56 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (aec8f930777c8f5f66a78d6c1a75e0d4)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:38:02 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 22:38:03 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 22:38:09 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:38:09 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:45:03 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:45:08 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:45:09 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:45:12 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:45:13 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:45:14 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:45:14 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:45:14 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:45:19 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:45:20 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:45:22 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:45:22 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (f5fedc96694730fc6598883a1cb485bb)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:45:29 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (f5fedc96694730fc6598883a1cb485bb)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:45:35 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 22:45:36 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 22:45:42 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:45:42 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:45:44 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:45:44 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:45:44 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:45:48 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:45:50 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:46:34 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:46:38 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:46:40 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:46:42 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:46:43 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 22:46:47 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:46:47 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:46:47 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:46:53 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:46:55 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:46:58 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:46:59 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (54497650bdd7fccb50b03072ecda1112)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:47:05 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (54497650bdd7fccb50b03072ecda1112)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:47:11 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 22:47:12 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 22:47:18 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:47:18 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:47:21 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:47:21 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:47:21 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:47:31 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:47:32 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:47:34 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:47:34 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ee4d6b17dcb01a2b5c5b2b8416026fa0)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:47:42 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ee4d6b17dcb01a2b5c5b2b8416026fa0)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:47:48 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 22:47:49 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 22:47:55 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:47:55 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 22:47:57 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 22:47:57 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 22:47:57 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 22:48:00 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 22:48:02 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 22:48:04 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 22:48:04 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (efc507446fe3334a0287061f6679588b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 22:48:12 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (efc507446fe3334a0287061f6679588b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 22:48:18 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 22:48:19 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 22:48:25 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 22:48:25 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 23:17:55 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:18:00 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:18:02 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:18:05 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 23:18:06 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 23:18:07 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 23:18:07 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 23:18:07 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:18:13 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:18:15 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:18:17 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 23:18:18 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (e1bffb1df8e8c80d2fbeddf0ca57efa9)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 23:18:26 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (e1bffb1df8e8c80d2fbeddf0ca57efa9)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 23:18:32 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 23:18:34 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 23:19:06 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 23:19:06 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 23:19:08 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 23:19:08 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 23:19:08 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:19:12 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:19:15 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:19:18 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 23:19:19 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (573694ebfe5c5885a54e2f5b85b00bcb)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 23:19:27 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (573694ebfe5c5885a54e2f5b85b00bcb)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 23:19:34 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 23:19:34 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 23:19:41 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 23:19:41 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 23:19:45 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 23:19:45 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 23:19:45 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:19:49 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:19:52 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:19:54 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 23:19:55 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (f5dcaeceb611141ec0ded0c4959a5a8a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 23:20:02 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (f5dcaeceb611141ec0ded0c4959a5a8a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 23:20:08 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 23:20:09 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 23:20:15 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 23:20:16 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 23:22:56 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:23:01 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:23:03 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:23:05 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 23:23:06 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 23:23:07 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 23:23:07 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 23:23:07 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:23:10 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:23:12 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:23:15 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 23:23:16 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (f4ca787a3b08ebd335e2a13c7197ecbc)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 23:23:23 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (f4ca787a3b08ebd335e2a13c7197ecbc)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 23:23:29 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 23:23:30 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 23:23:38 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 23:23:40 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 23:23:41 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 23:23:41 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 23:23:41 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:23:46 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:23:48 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:23:50 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 23:23:51 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (1de66562fb09018576d7b793d3db2ed1)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 23:23:59 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (1de66562fb09018576d7b793d3db2ed1)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 23:24:06 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 23:24:07 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 23:24:15 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 23:24:15 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 23:24:17 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 23:24:17 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 23:24:17 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:24:22 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:24:24 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:24:26 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 23:24:27 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (30b11d049af8e232b2bfdbbdc4a2980c)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 23:24:34 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (30b11d049af8e232b2bfdbbdc4a2980c)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 23:24:41 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 23:24:42 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 23:24:48 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 23:24:48 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 23:29:24 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:29:28 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:29:29 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:29:31 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 23:29:32 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-15 23:29:33 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 23:29:33 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 23:29:34 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:29:38 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:29:40 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:29:41 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 23:29:42 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (917b644635c1d3ad746b32369bf4a115)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 23:29:50 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (917b644635c1d3ad746b32369bf4a115)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 23:29:56 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-15 23:29:57 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 23:30:04 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 23:30:04 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 23:30:05 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 23:30:05 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 23:30:05 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:30:10 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:30:11 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:30:12 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 23:30:13 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (0f79baa8353efddc6e0b00f27c737d69)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 23:30:20 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (0f79baa8353efddc6e0b00f27c737d69)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 23:30:26 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-15 23:30:27 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-15 23:30:34 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 23:30:34 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-15 23:30:38 INFO  Hooks 21 - Launching the respective browser
-2021-02-15 23:30:38 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-15 23:30:38 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-15 23:30:43 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-15 23:30:45 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-15 23:30:48 INFO  poFlightMainPage 63 - Enter source city
-2021-02-15 23:30:49 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ce2643036ab12823035744f8208a0dbe)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-15 23:30:56 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ce2643036ab12823035744f8208a0dbe)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-15 23:31:04 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-15 23:31:05 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-15 23:31:11 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-15 23:31:11 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-16 13:16:44 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 13:16:52 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 13:16:54 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 13:16:57 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-16 13:16:58 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-16 13:17:00 INFO  Hooks 21 - Launching the respective browser
-2021-02-16 13:17:00 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-16 13:17:00 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 13:17:05 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 13:17:06 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 13:17:08 INFO  poFlightMainPage 63 - Enter source city
-2021-02-16 13:17:08 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (abb6ce218b63dc5f356e6a8dc49fff8e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-16 13:17:15 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (abb6ce218b63dc5f356e6a8dc49fff8e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-16 13:17:21 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-16 13:17:22 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-16 13:17:29 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-16 13:17:29 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-16 13:17:33 INFO  Hooks 21 - Launching the respective browser
-2021-02-16 13:17:33 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-16 13:17:33 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 13:17:42 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 13:17:45 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 13:17:47 INFO  poFlightMainPage 63 - Enter source city
-2021-02-16 13:17:48 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (029c848f697d29fcea4d3c1d5071123a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-16 13:17:55 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (029c848f697d29fcea4d3c1d5071123a)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-16 13:18:01 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-16 13:18:02 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-16 13:18:08 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-16 13:18:08 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-16 13:18:14 INFO  Hooks 21 - Launching the respective browser
-2021-02-16 13:18:14 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-16 13:18:14 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 13:18:19 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 13:18:22 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 13:18:23 INFO  poFlightMainPage 63 - Enter source city
-2021-02-16 13:18:23 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (5821c80bfb1c4d039a08d3f63ae2b68d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-16 13:18:31 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (5821c80bfb1c4d039a08d3f63ae2b68d)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-16 13:18:37 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-16 13:18:38 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-16 13:18:43 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-16 13:18:44 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-16 13:18:58 WARN  org.apache.pdfbox.pdmodel.font.FileSystemFontProvider 582 - New fonts found, font cache will be re-built
-2021-02-16 13:18:58 WARN  org.apache.pdfbox.pdmodel.font.FileSystemFontProvider 335 - Building on-disk font cache, this may take a while
-2021-02-16 13:19:06 WARN  org.apache.pdfbox.pdmodel.font.FileSystemFontProvider 338 - Finished building on-disk font cache, found 182 fonts
-2021-02-16 13:58:32 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 13:58:39 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 13:58:42 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 13:58:45 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-16 13:58:48 INFO  Hooks 21 - Launching the respective browser
-2021-02-16 13:58:48 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-16 13:58:49 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 13:58:53 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 13:58:54 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 13:58:56 INFO  poFlightMainPage 63 - Enter source city
-2021-02-16 13:58:57 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b83925bd60c544903fe685c9e28701c0)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-16 13:59:08 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (b83925bd60c544903fe685c9e28701c0)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-16 13:59:14 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-16 13:59:14 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-16 13:59:23 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-16 13:59:23 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-16 13:59:25 INFO  Hooks 21 - Launching the respective browser
-2021-02-16 13:59:25 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-16 13:59:25 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 13:59:32 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 13:59:33 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 13:59:35 INFO  poFlightMainPage 63 - Enter source city
-2021-02-16 13:59:36 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (d661d2667b44261c49c3fe33fd9aa939)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-16 13:59:42 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (d661d2667b44261c49c3fe33fd9aa939)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-16 13:59:48 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-16 13:59:49 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-16 13:59:55 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-16 13:59:55 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-16 13:59:59 INFO  Hooks 21 - Launching the respective browser
-2021-02-16 13:59:59 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-16 13:59:59 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 14:00:06 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 14:00:08 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 14:00:09 INFO  poFlightMainPage 63 - Enter source city
-2021-02-16 14:00:10 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (d6d00675bd15ac63a48674dd49516f26)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-16 14:00:16 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (d6d00675bd15ac63a48674dd49516f26)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-16 14:00:23 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-16 14:00:24 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-16 14:00:30 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-16 14:00:30 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-16 14:04:40 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 14:04:45 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 14:04:47 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 14:04:48 INFO  poFlightMainPage 53 - make the flight page load and assert it
-2021-02-16 14:04:50 INFO  Hooks 21 - Launching the respective browser
-2021-02-16 14:04:50 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-16 14:04:50 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 14:04:55 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 14:04:56 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 14:04:58 INFO  poFlightMainPage 63 - Enter source city
-2021-02-16 14:04:58 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (66878347d9a37696af7a502f939e7e3c)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-16 14:05:05 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (66878347d9a37696af7a502f939e7e3c)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-16 14:05:11 INFO  poFlightMainPage 96 - Entering start date :March 10
-2021-02-16 14:05:12 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-16 14:05:19 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-16 14:05:19 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-16 14:05:21 INFO  Hooks 21 - Launching the respective browser
-2021-02-16 14:05:21 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-16 14:05:21 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 14:05:30 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 14:05:32 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 14:05:34 INFO  poFlightMainPage 63 - Enter source city
-2021-02-16 14:05:35 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (97c0425e384bc32955bd999ec1a06e2e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-16 14:05:42 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (97c0425e384bc32955bd999ec1a06e2e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-16 14:05:49 INFO  poFlightMainPage 96 - Entering start date :March 1
-2021-02-16 14:05:50 INFO  poFlightMainPage 107 - Enering end date:March 15
-2021-02-16 14:05:55 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-16 14:05:55 INFO  poFlightMainPage 141 - verifying the output for the airport details 
-2021-02-16 14:05:59 INFO  Hooks 21 - Launching the respective browser
-2021-02-16 14:05:59 INFO  CommonUtilities 37 - loading log4j file properties 
-2021-02-16 14:05:59 INFO  BrowserUtilities 25 - Checking the browser type chrome
-2021-02-16 14:06:05 INFO  Constants 12 - The Web application is https://www.kayak.com/
-2021-02-16 14:06:08 INFO  poFlightMainPage 47 - Click on the flight link
-2021-02-16 14:06:11 INFO  poFlightMainPage 63 - Enter source city
-2021-02-16 14:06:12 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (eca275120c5ee28f9199f47530161fc5)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
-2021-02-16 14:06:18 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (eca275120c5ee28f9199f47530161fc5)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
-2021-02-16 14:06:24 INFO  poFlightMainPage 96 - Entering start date :February 25
-2021-02-16 14:06:25 INFO  poFlightMainPage 107 - Enering end date:March 25
-2021-02-16 14:06:31 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
-2021-02-16 14:06:31 INFO  poFlightMainPage 141 - verifying the output for the airport details 
+2021-02-16 14:52:32 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 14:52:39 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 14:52:42 INFO  poFlightMainPage 47 - Click on the flight link
+2021-02-16 14:52:44 INFO  poFlightMainPage 53 - make the flight page load and assert it
+2021-02-16 14:52:46 INFO  Hooks 21 - Launching the respective browser
+2021-02-16 14:52:46 INFO  CommonUtilities 37 - loading log4j file properties 
+2021-02-16 14:52:46 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 14:52:55 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 14:53:00 INFO  poFlightMainPage 47 - Click on the flight link
+2021-02-16 14:53:04 INFO  poFlightMainPage 63 - Enter source city
+2021-02-16 14:53:04 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (4243c3e6a5d53901dae78b9e9bfe3d2f)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
+2021-02-16 14:53:12 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (4243c3e6a5d53901dae78b9e9bfe3d2f)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
+2021-02-16 14:53:18 INFO  poFlightMainPage 96 - Entering start date :March 10
+2021-02-16 14:53:19 INFO  poFlightMainPage 107 - Enering end date:March 25
+2021-02-16 14:53:26 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
+2021-02-16 14:53:26 INFO  poFlightMainPage 141 - verifying the output for the airport details 
+2021-02-16 14:53:30 INFO  Hooks 21 - Launching the respective browser
+2021-02-16 14:53:30 INFO  CommonUtilities 37 - loading log4j file properties 
+2021-02-16 14:53:30 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 14:53:39 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 14:53:42 INFO  poFlightMainPage 47 - Click on the flight link
+2021-02-16 14:53:44 INFO  poFlightMainPage 63 - Enter source city
+2021-02-16 14:53:45 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (cec453f808f11cd2dcedbaa0e0047f10)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
+2021-02-16 14:53:51 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (cec453f808f11cd2dcedbaa0e0047f10)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
+2021-02-16 14:53:57 INFO  poFlightMainPage 96 - Entering start date :March 1
+2021-02-16 14:53:58 INFO  poFlightMainPage 107 - Enering end date:March 15
+2021-02-16 14:54:04 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
+2021-02-16 14:54:04 INFO  poFlightMainPage 141 - verifying the output for the airport details 
+2021-02-16 14:54:04 INFO  poFlightMainPage 151 - Displayed Flight details are
+2021-02-16 14:54:04 INFO  poFlightMainPage 152 - ***************************************************
+2021-02-16 14:54:04 INFO  poFlightMainPage 155 - Time 4:25
+2021-02-16 14:54:04 INFO  poFlightMainPage 156 - pm
+2021-02-16 14:54:04 INFO  poFlightMainPage 157 - -
+2021-02-16 14:54:04 INFO  poFlightMainPage 158 - 6:30
+2021-02-16 14:54:04 INFO  poFlightMainPage 159 - pm
+2021-02-16 14:54:04 INFO  poFlightMainPage 160 - flight is :British Airways
+2021-02-16 14:54:04 INFO  poFlightMainPage 162 - total Stops are          :2 stops
+2021-02-16 14:54:04 INFO  poFlightMainPage 163 - The layover airports are :
+2021-02-16 14:54:04 INFO  poFlightMainPage 164 - DFW
+2021-02-16 14:54:04 INFO  poFlightMainPage 165 - LHR
+2021-02-16 14:54:04 INFO  poFlightMainPage 167 - travel time :26h 35m
+2021-02-16 14:54:04 INFO  poFlightMainPage 168 - From :MSP
+2021-02-16 14:54:04 INFO  poFlightMainPage 169 - To   :DEL
+2021-02-16 14:54:04 INFO  poFlightMainPage 170 - **********************************************************
+2021-02-16 14:54:06 INFO  Hooks 21 - Launching the respective browser
+2021-02-16 14:54:06 INFO  CommonUtilities 37 - loading log4j file properties 
+2021-02-16 14:54:06 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 14:54:10 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 14:54:11 INFO  poFlightMainPage 47 - Click on the flight link
+2021-02-16 14:54:13 INFO  poFlightMainPage 63 - Enter source city
+2021-02-16 14:54:14 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (eeecb5dc4e836c9579602dcd37896f59)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
+2021-02-16 14:54:20 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (eeecb5dc4e836c9579602dcd37896f59)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
+2021-02-16 14:54:27 INFO  poFlightMainPage 96 - Entering start date :February 25
+2021-02-16 14:54:28 INFO  poFlightMainPage 107 - Enering end date:March 25
+2021-02-16 14:54:36 INFO  poFlightMainPage 129 - Check all the airports details selected on the left hand side of the page
+2021-02-16 14:54:36 INFO  poFlightMainPage 141 - verifying the output for the airport details 
+2021-02-16 14:54:36 INFO  poFlightMainPage 151 - Displayed Flight details are
+2021-02-16 14:54:36 INFO  poFlightMainPage 152 - ***************************************************
+2021-02-16 14:54:36 INFO  poFlightMainPage 155 - Time 7:25
+2021-02-16 14:54:36 INFO  poFlightMainPage 156 - pm
+2021-02-16 14:54:36 INFO  poFlightMainPage 157 - -
+2021-02-16 14:54:37 INFO  poFlightMainPage 158 - 6:25
+2021-02-16 14:54:37 INFO  poFlightMainPage 159 - pm
+2021-02-16 14:54:37 INFO  poFlightMainPage 160 - flight is :United Airlines
+2021-02-16 14:54:37 INFO  poFlightMainPage 162 - total Stops are          :2 stops
+2021-02-16 14:54:37 INFO  poFlightMainPage 163 - The layover airports are :
+2021-02-16 14:54:37 INFO  poFlightMainPage 164 - JFK
+2021-02-16 14:54:37 INFO  poFlightMainPage 165 - DEL
+2021-02-16 14:54:37 INFO  poFlightMainPage 167 - travel time :36h 30m
+2021-02-16 14:54:37 INFO  poFlightMainPage 168 - From :ATL
+2021-02-16 14:54:37 INFO  poFlightMainPage 169 - To   :BOM
+2021-02-16 14:54:37 INFO  poFlightMainPage 170 - **********************************************************
+2021-02-16 16:07:30 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 16:07:42 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 16:07:45 INFO  poFlightMainPage 47 - Click on the flight link
+2021-02-16 16:07:47 INFO  poFlightMainPage 53 - make the flight page load and assert it
+2021-02-16 16:07:49 INFO  Hooks 21 - Launching the respective browser
+2021-02-16 16:07:49 INFO  CommonUtilities 37 - loading log4j file properties 
+2021-02-16 16:07:49 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 16:07:53 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 16:07:54 INFO  poFlightMainPage 47 - Click on the flight link
+2021-02-16 16:07:57 INFO  poFlightMainPage 63 - Enter source city
+2021-02-16 16:07:57 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (41af8176cf1dbb669b9772b9dd204864)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
+2021-02-16 16:08:06 INFO  poFlightMainPage 74 - select nearby airports
+2021-02-16 16:10:48 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (41af8176cf1dbb669b9772b9dd204864)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
+2021-02-16 16:14:22 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 16:14:29 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 16:14:31 INFO  poFlightMainPage 50 - Click on the flight link
+2021-02-16 16:14:33 INFO  poFlightMainPage 56 - make the flight page load and assert it
+2021-02-16 16:14:36 INFO  Hooks 21 - Launching the respective browser
+2021-02-16 16:14:36 INFO  CommonUtilities 37 - loading log4j file properties 
+2021-02-16 16:14:36 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 16:14:41 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 16:14:43 INFO  poFlightMainPage 50 - Click on the flight link
+2021-02-16 16:14:46 INFO  poFlightMainPage 66 - Enter source city
+2021-02-16 16:14:47 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (ec6ae9c17f39fad84b185285ca71a388)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
+2021-02-16 16:14:54 INFO  poFlightMainPage 77 - select nearby airports
+2021-02-16 16:21:58 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 16:22:05 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 16:22:07 INFO  poFlightMainPage 50 - Click on the flight link
+2021-02-16 16:22:11 INFO  poFlightMainPage 56 - make the flight page load and assert it
+2021-02-16 16:22:13 INFO  Hooks 21 - Launching the respective browser
+2021-02-16 16:22:13 INFO  CommonUtilities 37 - loading log4j file properties 
+2021-02-16 16:22:13 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 16:22:18 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 16:22:21 INFO  poFlightMainPage 50 - Click on the flight link
+2021-02-16 16:22:23 INFO  poFlightMainPage 66 - Enter source city
+2021-02-16 16:22:25 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (1db79e2865564d1d80d302a6e584cb8e)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
+2021-02-16 16:22:32 INFO  poFlightMainPage 77 - select nearby airports
+2021-02-16 16:32:36 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 16:32:43 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 16:32:45 INFO  poFlightMainPage 50 - Click on the flight link
+2021-02-16 16:32:46 INFO  poFlightMainPage 56 - make the flight page load and assert it
+2021-02-16 16:32:49 INFO  Hooks 21 - Launching the respective browser
+2021-02-16 16:32:49 INFO  CommonUtilities 37 - loading log4j file properties 
+2021-02-16 16:32:49 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 16:32:54 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 16:32:55 INFO  poFlightMainPage 50 - Click on the flight link
+2021-02-16 16:32:57 INFO  poFlightMainPage 66 - Enter source city
+2021-02-16 16:32:58 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (02d0a9f416b9ecacd14d2253527441a9)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
+2021-02-16 16:33:05 INFO  poFlightMainPage 77 - select nearby airports
+2021-02-16 17:16:17 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 17:16:24 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 17:16:26 INFO  poFlightMainPage 50 - Click on the flight link
+2021-02-16 17:16:29 INFO  poFlightMainPage 56 - make the flight page load and assert it
+2021-02-16 17:16:34 INFO  Hooks 21 - Launching the respective browser
+2021-02-16 17:16:34 INFO  CommonUtilities 37 - loading log4j file properties 
+2021-02-16 17:16:34 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 17:16:40 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 17:16:41 INFO  poFlightMainPage 50 - Click on the flight link
+2021-02-16 17:16:43 INFO  poFlightMainPage 66 - Enter source city
+2021-02-16 17:16:44 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (14d1011f35d6fa7fab3abe2ca954fefd)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
+2021-02-16 17:16:52 INFO  poFlightMainPage 77 - select nearby airports
+2021-02-16 17:19:35 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 17:19:41 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 17:19:43 INFO  poFlightMainPage 50 - Click on the flight link
+2021-02-16 17:19:46 INFO  poFlightMainPage 56 - make the flight page load and assert it
+2021-02-16 17:19:48 INFO  Hooks 21 - Launching the respective browser
+2021-02-16 17:19:48 INFO  CommonUtilities 37 - loading log4j file properties 
+2021-02-16 17:19:48 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-02-16 17:19:53 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-02-16 17:19:54 INFO  poFlightMainPage 50 - Click on the flight link
+2021-02-16 17:19:56 INFO  poFlightMainPage 66 - Enter source city
+2021-02-16 17:19:57 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (8295ffd6ba630af0c41fe52c109329dc)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
+2021-02-16 17:20:04 INFO  poFlightMainPage 77 - select nearby airports
+2021-03-31 12:50:33 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-03-31 12:50:54 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-03-31 12:50:58 INFO  poFlightMainPage 50 - Click on the flight link
+2021-03-31 12:51:04 INFO  poFlightMainPage 56 - make the flight page load and assert it
+2021-03-31 12:51:08 INFO  Hooks 21 - Launching the respective browser
+2021-03-31 12:51:08 INFO  CommonUtilities 37 - loading log4j file properties 
+2021-03-31 12:51:08 INFO  BrowserUtilities 25 - Checking the browser type chrome
+2021-03-31 12:51:14 INFO  Constants 12 - The Web application is https://www.kayak.com/
+2021-03-31 12:51:16 INFO  poFlightMainPage 50 - Click on the flight link
+2021-03-31 12:51:19 INFO  poFlightMainPage 66 - Enter source city
+2021-03-31 12:51:20 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (c8148df389b5079f16ad9b943ecb2e5b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='From?']]
+2021-03-31 12:51:31 INFO  BrowserUtilities 84 - Performing KEYS.BACKSPACE to clear the field [[ChromeDriver: chrome on WINDOWS (c8148df389b5079f16ad9b943ecb2e5b)] -> xpath: //div[@class='search-form-inner']//div[@data-placeholder='To?']]
+2021-03-31 12:51:38 INFO  poFlightMainPage 103 - Entering start date :March 10
+2021-03-31 12:51:39 INFO  poFlightMainPage 114 - Enering end date:March 25
+2021-03-31 12:51:53 INFO  poFlightMainPage 136 - Check all the airports details selected on the left hand side of the page
+2021-03-31 12:51:57 INFO  poFlightMainPage 148 - verifying the output for the airport details 

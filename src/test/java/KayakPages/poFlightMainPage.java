@@ -35,6 +35,9 @@ public class poFlightMainPage extends TestBase {
     WebElement inputToEle;
     @FindBy(xpath = "//div[contains(@id,'col-button-wrapper')]//button[@title='Search flights']")
     WebElement searchEle;
+    @FindBy(xpath="//div[contains(@id,'origin-airport-display')]//*[name()=\"svg\"][2]")
+    List<WebElement> clickNearbyEle;
+
 
     public poFlightMainPage(WebDriver driver)
     {
@@ -71,6 +74,10 @@ public class poFlightMainPage extends TestBase {
                 al.add(sCode.substring(sCode.indexOf("(")+1,sCode.indexOf(")")));
             }
         }
+       /* log.info("select nearby airports");
+        if(oBrowserUtil.waitForElement(clickNearbyEle.get(0)))
+        clickNearbyEle.get(0).click();*/
+
         return al;
     }
     @FindBy(xpath="//div[contains(@id,'destination-airport-display-multi-container')]//div[contains(@class,'js-selection-display')]")
@@ -148,24 +155,26 @@ public class poFlightMainPage extends TestBase {
 
     public void displayResults()
     {
-        System.out.println("***************************************************");
+        log.info("Displayed Flight details are");
+        log.info("***************************************************");
         String fromToEle= "//div[@class='col-info result-column']//ol[@class='flights']//li[@class='flight with-gutter']";
-        System.out.print(driver.findElements(By.xpath(fromToEle+"//div[@class='section times']//span[@class='time-pair']//span[1]")).get(0).getText());
-        System.out.print(driver.findElements(By.xpath(fromToEle+"//div[@class='section times']//span[@class='time-pair']//span[2]")).get(0).getText());
-        System.out.print("-");
-        System.out.print(driver.findElements(By.xpath("//div[@class='section times']//span[@class='arrival-time base-time']")).get(0).getText());
-        System.out.println(driver.findElements(By.xpath("//div[@class='section times']//span[@class='time-meridiem meridiem']")).get(0).getText());
-       System.out.println("flight is :"+driver.findElements(By.xpath("//div[@class='section times']//div[@class='bottom ']")).get(0).getText());
+        //System.out.print(driver.findElements(By.xpath(fromToEle+"//div[@class='section times']//span[@class='time-pair']//span[1]")).get(0).getText());
+        log.info("Time "+driver.findElements(By.xpath(fromToEle+"//div[@class='section times']//span[@class='time-pair']//span[1]")).get(0).getText());
+        log.info(driver.findElements(By.xpath(fromToEle+"//div[@class='section times']//span[@class='time-pair']//span[2]")).get(0).getText());
+        log.info("-");
+        log.info(driver.findElements(By.xpath("//div[@class='section times']//span[@class='arrival-time base-time']")).get(0).getText());
+        log.info(driver.findElements(By.xpath("//div[@class='section times']//span[@class='time-meridiem meridiem']")).get(0).getText());
+       log.info("flight is :"+driver.findElements(By.xpath("//div[@class='section times']//div[@class='bottom ']")).get(0).getText());
 
-        System.out.println("total Stops are          :"+driver.findElements(By.xpath("//div[@class='section stops']//div//span")).get(0).getText());
-        System.out.println("The layover airports are :");
-        System.out.print(driver.findElements(By.xpath("//div[@class='section stops']//div[@class='bottom']//span[1]")).get(0).getText());
-        System.out.print(driver.findElements(By.xpath("//div[@class='section stops']//div[@class='bottom']//span[2]")).get(0).getText());
+        log.info("total Stops are          :"+driver.findElements(By.xpath("//div[@class='section stops']//div//span")).get(0).getText());
+        log.info("The layover airports are :");
+        log.info(driver.findElements(By.xpath("//div[@class='section stops']//div[@class='bottom']//span[1]")).get(0).getText());
+        log.info(driver.findElements(By.xpath("//div[@class='section stops']//div[@class='bottom']//span[2]")).get(0).getText());
 
-        System.out.println("travel time :"+driver.findElements(By.xpath("//div[@class='section duration allow-multi-modal-icons']//div[@class='top']")).get(0).getText());
-        System.out.println("From :"+driver.findElements(By.xpath("//span[@class='airport-name']")).get(0).getText());
-        System.out.println("To   :"+driver.findElements(By.xpath("//span[@class='airport-name']")).get(1).getText());
-        System.out.println("**********************************************************");
+        log.info("travel time :"+driver.findElements(By.xpath("//div[@class='section duration allow-multi-modal-icons']//div[@class='top']")).get(0).getText());
+        log.info("From :"+driver.findElements(By.xpath("//span[@class='airport-name']")).get(0).getText());
+        log.info("To   :"+driver.findElements(By.xpath("//span[@class='airport-name']")).get(1).getText());
+        log.info("**********************************************************");
     }
 }
 

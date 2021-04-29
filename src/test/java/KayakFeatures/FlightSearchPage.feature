@@ -8,6 +8,5 @@ Then click on the search button
   Examples:
     |row index|
     | 1      |
-    | 2      |
-    | 3       |
+
 
